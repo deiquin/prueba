@@ -20,9 +20,11 @@ echo $oAuto;
     let a = true;
     let b = false;
     
-    if (a == true && b == false){
+    if (a == true && (b == false || a == false)){
         console.log("hola");
+        return;
     }
+
 
 </script>
 </html>
