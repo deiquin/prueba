@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-<?php
-$variable = "hola";
-echo "se cambia de mensaje";
-echo "se agrega una linea mas";
-echo "se agrega una linea mas en la ramasiete";
-echo $variable;
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+    <?php
+    $variable = "hola";
+    echo "se cambia de mensaje";
+    echo "se agrega una linea mas";
+    echo "se agrega una linea mas en la ramasiete";
+    echo $variable;
 
-$oAuto = "{['a', 'b', 'g'], [1,5,8,6]}";
-echo $oAuto;
-?>    
-</body>
-<script>
-    console.log("hola");
-</script>
+    $oAuto = "{['a', 'b', 'g'], [1,5,8,6]}";
+    echo $oAuto;
+    ?>   
+        <script>
+            console.log("hola");
+        </script> 
+    </body>
 </html>
