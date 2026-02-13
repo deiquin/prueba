@@ -17,6 +17,9 @@ echo $oAuto;
 ?>    
 </body>
 <script>
-    console.log("hola");
+    let a = true;
+    if (a == true){
+        console.log("hola");
+    }
 </script>
 </html>
