@@ -18,8 +18,11 @@ echo $oAuto;
 </body>
 <script>
     let a = true;
-    if (a == true){
+    let b = false;
+    
+    if (a == true && b == false){
         console.log("hola");
     }
+
 </script>
 </html>
