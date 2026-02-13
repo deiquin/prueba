@@ -22,7 +22,9 @@ echo $oAuto;
     
     if (a == true && (b == false || a == false)){
         console.log("hola");
+        return;
     }
+
 
 </script>
 </html>
