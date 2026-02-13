@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
 <?php
 $variable = "hola";
 echo "se cambia de mensaje";
@@ -7,11 +15,9 @@ echo $variable;
 
 $oAuto = "{['a', 'b', 'g'], [1,5,8,6]}";
 echo $oAuto;
-
-for($i = 0; $i <= 10; $i++) {
-    echo "hola";
-    if($i == 7) {
-        return ;
-    }
-}
-
+?>    
+</body>
+<script>
+    console.log("hola");
+</script>
+</html>
