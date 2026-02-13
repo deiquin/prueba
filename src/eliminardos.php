@@ -16,4 +16,7 @@ $oAuto = "{['a', 'b', 'g'], [1,5,8,6]}";
 echo $oAuto;
 ?>    
 </body>
+<script>
+    console.log("hola");
+</script>
 </html>
