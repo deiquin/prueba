@@ -25,6 +25,10 @@ echo $oAuto;
         return false;
     }
 
+    function obtenerNombre() {
+        console.log("dar el nombre");
+    }
+
 
 </script>
 </html>
