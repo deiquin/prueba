@@ -25,6 +25,8 @@ echo $oAuto;
         return false;
     }
 
+    return;
+
 
 </script>
 </html>
