@@ -33,6 +33,10 @@ echo $oAuto;
         console.log("dar el apellido");
     }
 
+    function obtenerDireccion() {
+        console.log("dar la dirección");
+    }
+
 
 </script>
 </html>
