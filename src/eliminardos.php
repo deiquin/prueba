@@ -37,6 +37,8 @@ echo $oAuto;
         console.log("dar la dirección");
     }
 
+    return;
+
 
 </script>
 </html>
