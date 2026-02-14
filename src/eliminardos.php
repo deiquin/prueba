@@ -29,6 +29,10 @@ echo $oAuto;
         console.log("dar el nombre");
     }
 
+    function obtenerApellido() {
+        console.log("dar el apellido");
+    }
+
 
 </script>
 </html>
